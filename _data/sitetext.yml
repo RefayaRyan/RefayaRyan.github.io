@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Hi!
+    text: Its Refaya Ryan
+    button: About Me
+    buttonlink: "#about"
 
   services:
     title: "Services"
