@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hi!
-    text: It's Refaya Ryan
+    title: Hello I am Refaya Ryan
+    text: Content Writer
     button: About Me
     buttonlink: "#about"
 
   services:
     title: "Services"
-    text: "TODO Short Note Add Korte Hobe"
+    text: "Whether you need a captivating website blog, an informative article, a viral social media post, an appealing YouTube script, or even an A+ essay, I've got you covered."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Content Writing"
+        desc: "Unleash the power of storytelling in your business, marketing, and academic ventures with my captivating content. Let me breathe life into your blogs, enchanting readers across diverse domains - from sports and fitness to digital marketing. Elevate your brand through the art of storytelling today."
         icon: fas fa-pen #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "CopyWriting"
+        desc: "Words are powerful. And they can shape perceptions, ignite desires, and build relationships. I'll craft compelling messages that will captivate your audience, and drive meaningful engagement. Let my words build a connection between your business and its customers."
+        icon: fas fa-keyboard
+      - title: "YouTube Script"
+        desc: "I'm not just a scriptwriter. I'm a storyteller. I have a knack for finding the right words to capture your audience's attention and keep them hooked. I'm also a strong researcher, so I can ensure that your content is accurate and up-to-date."
+        icon: fab fa-youtube
 
   portfolio:
     title: "Portfolio"

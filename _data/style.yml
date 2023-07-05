@@ -1,7 +1,7 @@
 #Color Customization
 highlight: "#1e90ff" # Dodger Blue: "#1e90ff"
-black: "#fffafa" # Snow: "#fffafa"
-white: "#36454f" # Charcoal: "#36454f"
+white: "#fffafa" # Snow: "#fffafa"
+black: "#36454f" # Charcoal: "#36454f"
 
 #Image Customization
 header-image: "../img/header-bg.jpg"
