@@ -1,5 +1,5 @@
 ---
-title: Project Threads
+title: This is the title of the first project
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
