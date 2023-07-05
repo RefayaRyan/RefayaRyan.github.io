@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Hi!
+    text: It's Refaya Ryan
+    button: About Me
+    buttonlink: "#about"
 
   services:
     title: "Services"
@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "My story"
+    body: "As a writer, I don't just use words to describe what I see; I create stories and scenes that take the reader to somewhere new and unexpected. To get a better sense of my work, please feel free to explore my official Content Writer Portfolio."
     section: about
 
   clients:
