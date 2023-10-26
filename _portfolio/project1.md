@@ -1,18 +1,36 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+title: Freelance Content Writer
+# subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+image: assets/img/portfolio/image4.png
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Freelance Content Writer
+  # subtitle: Illustration
+  thumbnail: assets/img/portfolio/image4.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+My first journey as a Freelance Content Writer, I collaborated with a client, crafting captivating marketing content in the Bengali language.
+
+**Contributions from me:**
+
+**Unleashing the Power of Marketing Theory:** I dug deep into marketing theory, writing compelling content that seamlessly integrated theoretical concepts, enlightening readers and igniting their passion for the subject.
+
+**Key Learnings:**
+
+**Structured Writing:** I got good at organizing my writing. It made it easier for readers to understand the ins and outs of marketing.
+
+**Deep Research:** I became a research wizard. I dug deep to find valuable info that added depth and authenticity to my content.
+
+**Creative Complexity:** I learned how to make hard stuff in marketing sound interesting. By telling stories and making it relatable, I kept readers hooked.
+
+**The Writing Basics:** I picked up the basics of great writing - from captivating intros to engaging body parts and strong conclusions that stuck with readers.
+
+**Work Sample:**
+- [রঙের বিশ্লেষণ](https://drive.google.com/file/d/1JDvl3tozFf4TRdDkadMexBKClGZRFxtS/view)
+- [রঙের অর্থ এবং সিম্বলিজম]
+- [পোর্টারস ফাইভ ফোর্সেস](https://drive.google.com/file/d/1k8dW2IHg7F-Rw67moHUiWsNNZEraT2oq/view) 
+- [গ্রোথ হ্যাকিং](https://drive.google.com/file/d/1ypu85Ia9xIEV4pPyF0KcSPhWnqP_NhMD/view)
+- [ইমশোনাল মার্কেটিং](https://drive.google.com/file/d/1ix_oAbMzPb4iDsqs2M-iWAyIv-l8YvXK/view)
+- [সারোগেট মার্কেটিং](https://drive.google.com/file/d/1BpiNrKxoGDxgkzltCoNsAJ38FcMdhbaE/view)
 
