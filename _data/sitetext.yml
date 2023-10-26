@@ -39,29 +39,29 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    # text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Freelance Content Writer"
+        year: "Mar,2020 - Jul,2020"
+        desc: "In my debut as a Freelance Content Writer, I collaborated with a client to create captivating marketing content in Bengali, unleashing the power of marketing theory to enlighten and engage readers."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "10 Minute School"
+        year: "Sep 2021 - Jan 2022"
+        desc: "Working at 10 Minute School was an incredible experience. I had the opportunity to work with some of the brightest minds in the EdTech industry, and I learned so much about how to create effective and engaging content."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "AGENT WRITING"
+        year: "Mar 2022 to Mar 2023"
+        desc: "While I was at Agent Writing, I freelanced as a Ghostwriter for their Amazon Affiliate Marketing Team. I wrote as if I were Jeson Butler, a College Baseball Coach, to make informative and more reliable writings for Honest Baseball."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "SOROBINDU"
+        year: "Dec 2022 - Aug 2023"
+        desc: "In the exciting space of Sorobindu, I had a great time writing scripts for their Affiliate Marketing Team on YouTube. My job was to make product info easy to understand and make cool scripts for affiliate videos that painted clear pictures."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
