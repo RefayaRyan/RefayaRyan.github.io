@@ -1,13 +1,13 @@
 ---
-title: Freelance Content Writer
-# subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/image4.png
+title: Georenus
+subtitle: Freelance Content Writer
+image: assets/img/portfolio/PORTFOLIO_1.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Freelance Content Writer
-  # subtitle: Illustration
-  thumbnail: assets/img/portfolio/image4.png
+  title: Georenus
+  subtitle: Freelance Content Writer
+  thumbnail: assets/img/portfolio/PORTFOLIO_1.jpg
 ---
 
 My first journey as a Freelance Content Writer, I collaborated with a client, crafting captivating marketing content in the Bengali language.
@@ -28,7 +28,7 @@ My first journey as a Freelance Content Writer, I collaborated with a client, cr
 
 **Work Sample:**
 - [রঙের বিশ্লেষণ](https://drive.google.com/file/d/1JDvl3tozFf4TRdDkadMexBKClGZRFxtS/view)
-- [রঙের অর্থ এবং সিম্বলিজম]
+- [রঙের অর্থ এবং সিম্বলিজম](https://drive.google.com/file/d/11jG1mQ4XcSdDtDxubgFcHRhOfIaSndkF/view)
 - [পোর্টারস ফাইভ ফোর্সেস](https://drive.google.com/file/d/1k8dW2IHg7F-Rw67moHUiWsNNZEraT2oq/view) 
 - [গ্রোথ হ্যাকিং](https://drive.google.com/file/d/1ypu85Ia9xIEV4pPyF0KcSPhWnqP_NhMD/view)
 - [ইমশোনাল মার্কেটিং](https://drive.google.com/file/d/1ix_oAbMzPb4iDsqs2M-iWAyIv-l8YvXK/view)
