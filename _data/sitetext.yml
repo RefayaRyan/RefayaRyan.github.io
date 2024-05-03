@@ -77,7 +77,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: Email me at [ryanrefaya@gmail.com](mailto:ryanrefaya@gmail.com) or call me at [+88 01793093055](tel:+8801793093055)
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -93,15 +93,13 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/RyanRefaya
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/R.Refaya?_rdc=1&_rdr
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/refayaryan/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/refaya_ryan/
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
