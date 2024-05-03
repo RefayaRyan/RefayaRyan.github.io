@@ -77,7 +77,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: Email me at [ryanrefaya@gmail.com](mailto:ryanrefaya@gmail.com) or call me at [+88 01793093055](tel:+8801793093055)
+    text: Email me at ryanrefaya@gmail.com or call me at +88 01793093055
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
